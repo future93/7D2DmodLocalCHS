@@ -1,0 +1,6 @@
+Key,File,Type,UsedInMainMenu,NoTranslate,english,Context / Alternate Text,german,latam,french,italian,japanese,koreana,polish,brazilian,russian,turkish,schinese,tchinese,spanish
+solarbankSchematic,blocks,Electricity,,,Solar Bank Recipe,,,,,,,,,,,,太阳能组配方,,
+solarCellSchematic,items,Part,,,Solar Cell Recipe,,,,,,,,,,,,太阳能电池配方,,
+smallEngineSchematic,items,Part,,,Engine Recipe,,,,,,,,,,,,发动机配方,,
+electricWirelessFuseBox,blocks,Electricity,,,Wireless Fuse Box,,,,,,,,,,,,无线配电盒,,
+electricWirelessFuseBoxDesc,blocks,Block,,,This power box works exactly the same as a wire relay except that it's wireless,,,,,,,,,,,,这个配电盒与继电器的功能相同，但它是无线输电的。,,

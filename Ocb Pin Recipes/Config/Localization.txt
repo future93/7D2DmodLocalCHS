@@ -1,0 +1,6 @@
+Key,File,Type,English,German,schinese
+
+lblContextActionPinRecipe,ui,ui,Pin,,固定
+xuiUnpinRecipe,ui,ui,Unpin,Entfernen,取下
+xuiIncrement,ui,ui,Increment,Mehr,增量
+xuiDecrement,ui,ui,Decrement,Weniger,减量

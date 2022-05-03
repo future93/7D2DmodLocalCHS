@@ -1,0 +1,23 @@
+Key,UsedInMainMenu,Source,Context,Changes,English,French,German,Klingon,Spanish,Polish,schinese
+modDyeHotPink,,item_modifiers,mod,newKey,Dye: Hot Pink,,,,,,染色剂:亮粉色
+modDyeFireEngineRed,,item_modifiers,mod,newKey,Dye: Fire Engine Red,,,,,,染色剂:火车红
+modDyeOrange,,item_modifiers,mod,newKey,Dye: Orange,,,,,,染色剂:橙色
+modDyeGold,,item_modifiers,mod,newKey,Dye: Gold,,,,,,染色剂:金色
+modDyeBronze,,item_modifiers,mod,newKey,Dye: Bronze,,,,,,染色剂:青铜色
+modDyeLimeGreen,,item_modifiers,mod,newKey,Dye: Lime Green,,,,,,染色剂:青柠色
+modDyeSpringGreen,,item_modifiers,mod,newKey,Dye: Spring Green,,,,,,染色剂:春绿色
+modDyeCyan,,item_modifiers,mod,newKey,Dye: Cyan,,,,,,染色剂:青色
+modDyeTurquoise,,item_modifiers,mod,newKey,Dye: Turquoise,,,,,,染色剂:绿松石
+modDyeBrightSkyBlue,,item_modifiers,mod,newKey,Dye: Bright Blue Sky,,,,,,染色剂:天蓝色
+modDyeFuchsia,,item_modifiers,mod,newKey,Dye: Fuchsia,,,,,,染色剂:紫红色
+modDyeRoyalPurple,,item_modifiers,mod,newKey,Dye: Royal Purple,,,,,,染色剂:皇家紫
+modDyeBubblegum,,item_modifiers,mod,newKey,Dye: Bubblegum,,,,,,染色剂:泡泡糖
+modDyeLightCoral,,item_modifiers,mod,newKey,Dye: Light Coral,,,,,,染色剂:浅珊瑚
+modDyePaleOrange,,item_modifiers,mod,newKey,Dye: Pale Orange,,,,,,染色剂:浅橙色
+modDyeKhaki,,item_modifiers,mod,newKey,Dye: Khaki,,,,,,染色剂:卡其色
+modDyeSienna,,item_modifiers,mod,newKey,Dye: Sienna,,,,,,染色剂:赭色
+modDyePaleGreen,,item_modifiers,mod,newKey,Dye: Pale Green,,,,,,染色剂:浅绿色
+modDyeBabyBlue,,item_modifiers,mod,newKey,Dye: Baby Blue,,,,,,染色剂:淡蓝色
+modDyeSteelBlue,,item_modifiers,mod,newKey,Dye: Steel Blue,,,,,,染色剂:钢蓝色
+modDyePlum,,item_modifiers,mod,newKey,Dye: Plum,,,,,,染色剂:梅色
+modDyeGray,,item_modifiers,mod,newKey,Dye: Gray,,,,,,染色剂:灰色
