@@ -22,18 +22,18 @@ Welcome!
 * 如果您下载的是一个压缩包，将其解压缩至一个单独的目录内。
 * 消除外部文件夹嵌套，**您将要在之后的步骤中复制的目录应当直接包含`ModInfo.xml`文件**，以及一些其他的文件和文件夹。模组目录内部的文件结构请勿更改。
 * 将之前步骤中准备完成的目录直接复制到`[您的《7日杀》游戏根目录]\Mods\`目录下。
-* 不少模组需要在启动游戏时将`Easy Anti Cheat`（~~小懒熊~~小蓝熊）功能关闭（您也因此将不能加入启用此功能的多人游戏服务器）。您可以在游戏启动器中将与之对应的选项取消勾选。如果您是Steam用户，这需要您在Steam主程序中选择启动《7日杀》游戏，并选择`Show Game Launcher`选项。
+* 不少模组需要在启动游戏时将`Easy Anti Cheat`（~~小懒熊~~小蓝熊）功能关闭，具体请参考模组发布页面的相关说明。您可以在游戏启动器中将与之对应的选项取消勾选。如果您是Steam用户，这需要您在Steam主程序中选择启动《7日杀》游戏，并选择`Show Game Launcher`选项。
 * 之后您可以继续将从本仓库中下载的中文补丁覆盖入之前在`[您的《7日杀》游戏根目录]\Mods\`中建立的模组目录中。`Localization.txt`文件通常存在于`[模组目录]\Config\`目录下。如果您在复制时没有提示需要确认覆盖文件的操作，请注意检查您是否将文件复制到了正确的目录下。您也可以参考本仓库各模组对应的子目录中的文件结构。
 * 最后，本仓库中的中文化补丁只有当游戏语言选项设置为简体中文时方可生效。
-* 
+
 ## 感谢您读到这里！
 
-之后就是各模组之本体的下载地址了。如果您玩得开心，请到本仓库主页的右上角给我一颗Star~
+之后就是各模组之本体的下载地址了。如果您玩得开心，请考虑赞一下本仓库。
 以及，如果您有什么意见或者建议想让我知道，又或者希望我能汉化其他《7日杀》的模组，请在本仓库开一个Issue。
 
 ## 模组本体下载地址
 
-点击直达~Kira☆~
+点击直达★Kira☆
 * [Better Homes and Worlds Collection - Army Surplus](https://www.nexusmods.com/7daystodie/mods/1233) 汉化对应版本：v1.0.1
 * [Better Homes and Worlds Collection - Encyclopedia](https://www.nexusmods.com/7daystodie/mods/2044) 汉化对应版本：v1.0
 * [Better Homes and Worlds Collection - Fashionista](https://www.nexusmods.com/7daystodie/mods/1214) 汉化对应版本：v2.0
