@@ -1,16 +1,16 @@
 Key,UsedInMainMenu,Source,Context,Changes,English,French,German,Klingon,Spanish,Polish,schinese
-gunRifleT1HuntingRiflePartsSchematic,items,Gun,,,Rifle Parts Schematic,,,,,步枪零件蓝图
-meleeWpnSpearT3SteelSpearPartsSchematic,items,Gun,,,Steel Spear Parts Schematic,,,,,钢矛零件蓝图
-gunShotgunT1DoubleBarrelPartsSchematic,items,Gun,,,Shotgun Parts Schematic,,,,,霰弹枪零件蓝图
-meleeWpnClubT3SteelClubPartsSchematic,items,Gun,,,Steel Club Parts Schematic,,,,,钢棍零件蓝图
-meleeWpnSledgeT3SteelSledgehammerPartsSchematic,items,Gun,,,Steel Sledgehammer Parts Schematic,,,,,钢制大锤零件蓝图
-meleeWpnKnucklesT3SteelKnucklesPartsSchematic,items,Gun,,,Steel Knuckles Parts Schematic,,,,,钢制拳套零件蓝图
-gunMGT1AK47PartsSchematic,items,Gun,,,Machine Gun Parts Schematic,,,,,机枪零件蓝图
-gunBowT1WoodenBowPartsSchematic,items,Gun,,,Bow / Crossbow Parts Schematic,,,,,弓弩零件蓝图
-gunHandgunT1PistolPartsSchematic,items,Gun,,,Hand Gun Parts Schematic,,,,,手枪零件蓝图
-meleeWpnBladeT3MachetePartsSchematic,items,Gun,,,Machete Parts Schematic,,,,,砍刀零件蓝图
-meleeWpnBatonT2StunBatonPartsSchematic,items,Gun,,,Baton Parts Schematic,,,,,电击棒零件蓝图
-gunBotRoboticsPartsSchematic,items,Gun,,,Robotic Parts Schematic,,,,,机器人零件蓝图
-gunExplosivesT3RocketLauncherPartsSchematic,items,Gun,,,Rocket Launcher Parts Schematic,,,,,火箭发射器零件蓝图
-armorSteelSetPartsSchematic,items,Clothes,,,Steel Armor Parts Schematic,,,,,钢护甲部件蓝图
-armorMilitarySetPartsSchematic,items,Clothes,,,Military Armor Parts Schematic,,,,,军用护甲部件蓝图
+gunRifleT1HuntingRiflePartsSchematic,items,Gun,,,Rifle Parts Schematic,,,,,,步枪零件蓝图
+meleeWpnSpearT3SteelSpearPartsSchematic,items,Gun,,,Steel Spear Parts Schematic,,,,,,钢矛零件蓝图
+gunShotgunT1DoubleBarrelPartsSchematic,items,Gun,,,Shotgun Parts Schematic,,,,,,霰弹枪零件蓝图
+meleeWpnClubT3SteelClubPartsSchematic,items,Gun,,,Steel Club Parts Schematic,,,,,,钢棍零件蓝图
+meleeWpnSledgeT3SteelSledgehammerPartsSchematic,items,Gun,,,Steel Sledgehammer Parts Schematic,,,,,,钢制大锤零件蓝图
+meleeWpnKnucklesT3SteelKnucklesPartsSchematic,items,Gun,,,Steel Knuckles Parts Schematic,,,,,,钢制拳套零件蓝图
+gunMGT1AK47PartsSchematic,items,Gun,,,Machine Gun Parts Schematic,,,,,,机枪零件蓝图
+gunBowT1WoodenBowPartsSchematic,items,Gun,,,Bow / Crossbow Parts Schematic,,,,,,弓弩零件蓝图
+gunHandgunT1PistolPartsSchematic,items,Gun,,,Hand Gun Parts Schematic,,,,,,手枪零件蓝图
+meleeWpnBladeT3MachetePartsSchematic,items,Gun,,,Machete Parts Schematic,,,,,,砍刀零件蓝图
+meleeWpnBatonT2StunBatonPartsSchematic,items,Gun,,,Baton Parts Schematic,,,,,,电击棒零件蓝图
+gunBotRoboticsPartsSchematic,items,Gun,,,Robotic Parts Schematic,,,,,,机器人零件蓝图
+gunExplosivesT3RocketLauncherPartsSchematic,items,Gun,,,Rocket Launcher Parts Schematic,,,,,,火箭发射器零件蓝图
+armorSteelSetPartsSchematic,items,Clothes,,,Steel Armor Parts Schematic,,,,,,钢护甲部件蓝图
+armorMilitarySetPartsSchematic,items,Clothes,,,Military Armor Parts Schematic,,,,,,军用护甲部件蓝图
