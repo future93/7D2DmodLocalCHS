@@ -11,13 +11,13 @@ modDyeTurquoise,,item_modifiers,mod,newKey,Dye: Turquoise,,,,,,染色剂:绿松�
 modDyeBrightSkyBlue,,item_modifiers,mod,newKey,Dye: Bright Blue Sky,,,,,,染色剂:天蓝色
 modDyeFuchsia,,item_modifiers,mod,newKey,Dye: Fuchsia,,,,,,染色剂:紫红色
 modDyeRoyalPurple,,item_modifiers,mod,newKey,Dye: Royal Purple,,,,,,染色剂:皇家紫
-modDyeBubblegum,,item_modifiers,mod,newKey,Dye: Bubblegum,,,,,,染色剂:泡泡糖
-modDyeLightCoral,,item_modifiers,mod,newKey,Dye: Light Coral,,,,,,染色剂:浅珊瑚
-modDyePaleOrange,,item_modifiers,mod,newKey,Dye: Pale Orange,,,,,,染色剂:浅橙色
+modDyeBubblegum,,item_modifiers,mod,newKey,Dye: Bubblegum,,,,,,染色剂:泡泡粉
+modDyeLightCoral,,item_modifiers,mod,newKey,Dye: Light Coral,,,,,,染色剂:珊瑚红
+modDyePaleOrange,,item_modifiers,mod,newKey,Dye: Pale Orange,,,,,,染色剂:亮橙色
 modDyeKhaki,,item_modifiers,mod,newKey,Dye: Khaki,,,,,,染色剂:卡其色
 modDyeSienna,,item_modifiers,mod,newKey,Dye: Sienna,,,,,,染色剂:赭色
 modDyePaleGreen,,item_modifiers,mod,newKey,Dye: Pale Green,,,,,,染色剂:浅绿色
 modDyeBabyBlue,,item_modifiers,mod,newKey,Dye: Baby Blue,,,,,,染色剂:淡蓝色
-modDyeSteelBlue,,item_modifiers,mod,newKey,Dye: Steel Blue,,,,,,染色剂:钢蓝色
+modDyeSteelBlue,,item_modifiers,mod,newKey,Dye: Steel Blue,,,,,,染色剂:钢灰蓝
 modDyePlum,,item_modifiers,mod,newKey,Dye: Plum,,,,,,染色剂:梅色
 modDyeGray,,item_modifiers,mod,newKey,Dye: Gray,,,,,,染色剂:灰色
