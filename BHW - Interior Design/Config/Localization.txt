@@ -10,7 +10,7 @@ ceilingLight05Brass_player,blocks,Light,,,Brass Glass Light,,,,,,,,,,,,玻璃铜
 recessedLight_player,blocks,Light,,,Recessed Light,,,,,,,,,,,,嵌灯,,
 wallLight01_player,blocks,Light,,,Warehouse Outdoor Light,,,,,,,,,,,,仓库室外灯,,
 fluorescentLight_player,blocks,Light,,,Fluorescent Shop Light,,,,,,,,,,,,萤光灯,,
-fluorescentLightBayIntact_player,,,Fluorescent Bay Light,,,,,,,,,,,,灯光港湾,,
+fluorescentLightBayIntact_player,blocks,Light,,,Fluorescent Bay Light,,,,,,,,,,,,灯光港湾,,
 trackLight_player,blocks,Light,,,Track Light,,,,,,,,,,,,轨道灯,,
 sconce1Light_player,blocks,Light,,,Sconce Light,,,,,,,,,,,,壁灯,,
 industrialLight02Red_player,blocks,Light,,,Red Industrial Light,,,,,,,,,,,,红色工业灯,,
