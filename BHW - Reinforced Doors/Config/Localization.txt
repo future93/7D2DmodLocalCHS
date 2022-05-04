@@ -20,7 +20,7 @@ windowStoreFourSidedReinforced,blocks,Block,,,Reinforced Store Window Four Sided
 windowBorderlessReinforced,blocks,Block,,,Reinforced Borderless Window,,,,,,,,,,,,加固无框窗户,,
 window03WoodReinforced,blocks,Block,,,Reinforced Wood Window,,,,,,,,,,,,加固木框窗户,,
 windowReinforcedHelper,blocks,Block,,,Reinforced Windows,,,,,,,,,,,,加固窗户,,
-windowReinforcedGroupDesc,blocks,Block,,,Reinforced Windows provide double the protection of bulletproof glass while remaining stylish,,,,,,,,,,,,加固窗户提供两倍于防弹玻璃的保护，同时一如既往地帅气。,,
+windowReinforcedGroupDesc,blocks,Block,,,Reinforced Windows provide double the protection of bulletproof glass while remaining stylish,,,,,,,,,,,,加固窗户提供两倍于防弹玻璃的保护，同时一如既往地有型。,,
 rollUpDoor3x3BlackPowered,blocks,block,,,Black Roll Up Door 3x3,,,,,,,,,,,,黑色卷闸门 3x3,,
 rollUpDoor3x3BluePowered,blocks,block,,,Blue Roll Up Door 3x3,,,,,,,,,,,,蓝色卷闸门 3x3,,
 rollUpDoor3x3BrownPowered,blocks,block,,,Brown Roll Up Door 3x3,,,,,,,,,,,,褐色卷闸门 3x3,,
