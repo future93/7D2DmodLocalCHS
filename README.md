@@ -7,7 +7,7 @@ Welcome!
 
 **If you are one of the developers of these mods,** please accept my gratitude for creating these wonderful mods. Feel free to merge these translations into your mod, and there is no necessarity to contact me before you do this. Also, **if there is a `WARNING for MOD CREATER.md` file in the sub-directory of your mod, PLEASE CHECK.** There are bug reports and fix suggestions related to your mod's `Localization.txt` file. **If you have updated your mod or you want me to make simplified Chinese localization for another mod, Please open an Issue to remind me about that.**
 
-**If you are a non-Chinese speaking game player of these mods,** sadly there is very few useful things here. However, you can still check these `WARNING for MOD CREATER.md` files. There are some bugfix suggestions within, which you can use to fix some annoying issues.
+**If you are a non-Chinese speaking game player,** sadly there is very few useful things here. However, you can still check these `WARNING for MOD CREATER.md` files. There are some bugfix suggestions within, which you can use to fix some annoying issues.
 
 ## 欢迎来到我的《7日杀》模组汉化仓库
 
