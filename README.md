@@ -43,8 +43,11 @@ Welcome!
 * [Better Homes and Worlds Collection - Reinforced Doors](https://www.nexusmods.com/7daystodie/mods/1221) 汉化对应版本：v1.4
 * [Better Homes and Worlds Collection - Scavenger](https://www.nexusmods.com/7daystodie/mods/2045) 汉化对应版本：v1.0
 * [Water Vehicle](https://community.7daystodie.com/topic/14070-water-vehicle-modlets/) 汉化对应版本：Boating Modlet Version 6 for A20
-* [Claim Auto Repair](https://www.nexusmods.com/7daystodie/mods/1705) 汉化对应版本：v0.7.1
-* [Ocb Pin Recipes](https://www.nexusmods.com/7daystodie/mods/1850) 汉化对应版本：v0.4.1
+* [Ocb Claim Auto Repair](https://www.nexusmods.com/7daystodie/mods/1705) 汉化对应版本：v0.7.2
+  本模组汉化已由其作者整合，然而，由于我的疏漏，此模组整合的汉化使用了一个有错误的旧版本。仓库里提供了对应v0.7.2版本的汉化修正补丁，您可以使用与安装本仓库内其他中文补丁相同的方法将其安装以修正此错误。
+  **如果您发现此模组发布页面的版本号高于v0.7.2，请暂时不要安装修正补丁，并在本仓库开一个Issue通知我。**~~直接下载模组本体即可~~
+* [Ocb Pin Recipes](https://www.nexusmods.com/7daystodie/mods/1850) ~~汉化对应版本：v0.4.1~~
+  本模组汉化已由其作者整合，直接下载模组本体即可
 * [Quest Area Timer](https://www.nexusmods.com/7daystodie/mods/1912) 汉化对应版本：v1.1
 
 ***
