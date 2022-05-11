@@ -42,7 +42,7 @@ Welcome!
 * [Better Homes and Worlds Collection - PowerPlant](https://www.nexusmods.com/7daystodie/mods/1223) 汉化对应版本：v1.2
 * [Better Homes and Worlds Collection - Reinforced Doors](https://www.nexusmods.com/7daystodie/mods/1221) 汉化对应版本：v1.4
 * [Better Homes and Worlds Collection - Scavenger](https://www.nexusmods.com/7daystodie/mods/2045) 汉化对应版本：v1.0
-* [Ragsy's Water Vehicle](https://community.7daystodie.com/topic/14070-water-vehicle-modlets/) 汉化对应版本：Boating Modlet Version 6 for A20
+* [Ragsy's Water Vehicle - Main](https://community.7daystodie.com/topic/14070-water-vehicle-modlets/) 汉化对应版本：Boating Modlet Version 6 for A20
 * [Ragsy's Water Vehicle - JetSki](https://community.7daystodie.com/topic/14070-water-vehicle-modlets/?do=findComment&comment=275094) 汉化对应版本：Experimental work in progress version 2 for A20
 * [Ocb Claim Auto Repair](https://www.nexusmods.com/7daystodie/mods/1705) 汉化对应版本：v0.7.2
   本模组汉化已由其作者整合，然而，由于我的疏漏，此模组整合的汉化使用了一个有错误的旧版本。仓库里提供了对应v0.7.2版本的汉化修正补丁，您可以使用与安装本仓库内其他中文补丁相同的方法将其安装以修正此错误。
