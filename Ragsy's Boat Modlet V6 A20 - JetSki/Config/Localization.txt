@@ -1,0 +1,5 @@
+Key,Source,Context,Changes,English,French,German,Klingon,Spanish,Polish,schinese
+
+vehicleJetSki,vehicles,vehicle,new,Jetski,,,,,,水上摩托
+vehicleJetSkiPlaceable,vehicles,item,EnChanged,Jetski Placeable,,,,,,水上摩托
+vehicleJetSkiPlaceableDesc,vehicles,item,EnChanged, Need for speed travel? ,,,,,,极品飞船走一个？\n船只需要被安放在深度较浅的水底平面上。\n船只需要被安放在深度较浅的水底平面上。\n船只的操作类似旋翼机，用 A/D 键（默认）打舵，C/space 控制俯仰。\n如果要减速，按住 S 键。\n用C/space 键可以调平船只，以避免它漂移。
