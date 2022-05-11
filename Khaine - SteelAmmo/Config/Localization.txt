@@ -1,0 +1,7 @@
+Key,File,Type,UsedInMainMenu,NoTranslate,english,Context / Alternate Text,german,latam,french,italian,japanese,koreana,polish,brazilian,russian,turkish,schinese,tchinese,spanish
+ammo44MagnumBulletSteel,items,Ammo,,,".44 Magnum Round, Steel (Ammo)",,,,,,,,,,,,.44马格南钢壳弹（弹药）,,
+ammo9mmBulletSteel,items,Ammo,,,"9mm Round, Steel (Ammo)",,,,,,,,,,,,9毫米钢壳弹（弹药）,,
+ammo762mmBulletFMJSteel,items,Ammo,,,"7.62mm Round, Steel (Ammo)",,,,,,,,,,,,7.62毫米钢壳弹（弹药）,,
+ammoSteelCasedGroupDesc,items,Ammo,,,"Steel-cased ammunition is a cheap alternative to using brass but wears down barrels faster.",,,,,,,,,,,,钢壳弹药是铜壳子弹的廉价替代品，但也会对枪管造成更严重的磨损。,,
+resourceBulletCasingSteel,items,Item,,,"Bullet Casing, Steel",,,,,,,,,,,,弹壳（钢质）,,
+resourceBulletCasingSteelDesc,items,Item,,,"Steel bullet casings are cheaper but cause more wear on the barrel.",,,,,,,,,,,,钢质弹壳更廉价但也更耗枪管。,,
