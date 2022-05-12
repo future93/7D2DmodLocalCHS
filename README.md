@@ -50,8 +50,6 @@ Welcome!
 * [Ocb Pin Recipes](https://www.nexusmods.com/7daystodie/mods/1850) ~~汉化对应版本：v0.4.1~~
   本模组汉化已由其作者整合，直接下载模组本体即可
 * [Quest Area Timer](https://www.nexusmods.com/7daystodie/mods/1912) 汉化对应版本：v1.1
-* [Khaine - ChickenCoops](https://github.com/KhaineGB/KhaineA20ModletsXML/tree/main/KHA20-ChickenCoops) 汉化对应版本：v1.0.0
-  本模组自带（大概是）机翻的汉化。总而言之我润了个色。
 * [Khaine - Steel Ammo](https://github.com/KhaineGB/KhaineA20ModletsXML/tree/main/KHA20-SteelAmmo) 汉化对应版本：v1.0
 * [Khaine - Spawns and Claims](https://github.com/KhaineGB/KhaineA20ModletsXML/tree/main/KHA20-SpawnsAndClaims) 汉化对应版本：v1.0
 * []()
