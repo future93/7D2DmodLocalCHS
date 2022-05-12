@@ -1,7 +1,0 @@
-Key,File,Type,UsedInMainMenu,NoTranslate,english,Context / Alternate Text,schinese
-DFanimalFeed,,items,Item,KgNone,Animal Feed,,饲料
-animalFeedDesc,items,Item,,,Used in crafting chicken coops and feeding the chickens after looting,,用于在收获鸡舍的产出后投喂里面的鸡。
-DFchickenCoop,,blocks,Traps,KgNone,Chicken Coop,,鸡舍
-DFChickenCoopFull,,blocks,Traps,KgNone,Chicken Coop,,鸡舍
-chickenCoopDesc,blocks,Block,,,"Place this outside and wait for the eggs to hatch. Once looted, must be re-upgraded with animal feed (hold the feed in your hand and right-click on the block)",,把它放在室外，然后等着鸡下蛋。收获后必须重新投放饲料（手持饲料并右键单击鸡舍）。
-perkLivingOffTheLandRank1LongDesc,progression,perk For,,,"Double the harvest of wild or planted crops. Craft seeds for flowers and decorative plants like goldenrod, chrysanthemum, aloe, and yucca.\nFarm plots cost 30% less to craft.\n\nUnlocks the chicken coop and animal feed recipes",,野生或种植作物的收获加倍。制作花卉和装饰性植物种子，如秋麒麟、菊花、芦荟和丝兰。\n小块农田制作花费减少30%。\n\n解锁鸡舍和饲料的配方。
