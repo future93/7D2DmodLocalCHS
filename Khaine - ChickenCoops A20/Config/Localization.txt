@@ -1,6 +1,6 @@
 Key,File,Type,UsedInMainMenu,NoTranslate,english,Context / Alternate Text,schinese
 DFanimalFeed,,items,Item,KgNone,Animal Feed,,饲料
-animalFeedDesc,items,Item,,,Used in crafting chicken coops and feeding the chickens after looting,,用于制作鸡舍并在收获后喂鸡
+animalFeedDesc,items,Item,,,Used in crafting chicken coops and feeding the chickens after looting,,用于在收获鸡舍的产出后投喂里面的鸡。
 DFchickenCoop,,blocks,Traps,KgNone,Chicken Coop,,鸡舍
 DFChickenCoopFull,,blocks,Traps,KgNone,Chicken Coop,,鸡舍
 chickenCoopDesc,blocks,Block,,,"Place this outside and wait for the eggs to hatch. Once looted, must be re-upgraded with animal feed (hold the feed in your hand and right-click on the block)",,把它放在室外，然后等着鸡下蛋。收获后必须重新投放饲料（手持饲料并右键单击鸡舍）。

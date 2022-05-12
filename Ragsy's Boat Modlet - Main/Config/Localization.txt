@@ -1,7 +1,7 @@
 Key,Source,Context,Changes,English,French,Latam,German,Klingon,Spanish,Polish,schinese
 vehicleFlatBoat,vehicles,vehicle,new,FlatBottom Boat,,Barco de fondo plano,,,Barco de fondo plano,,平底船
 vehicleFlatBoatPlaceable,vehicles,item,EnChanged,Flat Bottom Boat Placeable,,Barco de fondo plano colocable,,,Barco de fondo plano colocable,,平底船
-vehicleFlatBoatPlaceableDesc,vehicles,item,EnChanged, Swim if you like ? ,,¿Nada si quieres?,,,¿Nada si quieres?,,你爱游泳就自己游呗？\n船只需要被安放在深度较浅的水底平面上。\n船只的操作类似旋翼机，用 A/D 键（默认）打舵，C/space 控制俯仰。\n如果要减速，按住 S 键。\n用C/space 键可以调平船只，以避免它漂移。
+vehicleFlatBoatPlaceableDesc,vehicles,item,EnChanged, Swim if you like ? ,,¿Nada si quieres?,,,¿Nada si quieres?,,你爱游泳就自己游呗？\n\n船只需要被安放在深度较浅的水底平面上。\n船只的操作类似旋翼机，用 A/D 键（默认）打舵，C/space 键控制俯仰。\n按住 S 键可以减速。\n用C/space 键可以调平船只，以避免它漂移。
 vehicleDinghy,vehicles,vehicle,new,Dinghy,,Bote inflable,,,Bote inflable,,充气筏
 vehicleDinghyPlaceable,vehicles,item,EnChanged,A Dinghy Placeable,,Un bote inflable colocable,,,Un bote inflable colocable,,充气筏
-vehicleDinghyPlaceableDesc,vehicles,item,EnChanged, Fast boat but swim if you like ? ,,Bote rápido pero ¿nada si quieres?,,,Bote rápido pero ¿nada si quieres?,,这筏子还挺快。要不要游泳随您自便。\n船只需要被安放在深度较浅的水底平面上。\n船只需要被安放在深度较浅的水底平面上。\n船只的操作类似旋翼机，用 A/D 键（默认）打舵，C/space 控制俯仰。\n如果要减速，按住 S 键。\n用C/space 键可以调平船只，以避免它漂移。
+vehicleDinghyPlaceableDesc,vehicles,item,EnChanged, Fast boat but swim if you like ? ,,Bote rápido pero ¿nada si quieres?,,,Bote rápido pero ¿nada si quieres?,,这筏子还挺快。要不要游泳随您自便。\n\n船只需要被安放在深度较浅的水底平面上。\n船只的操作类似旋翼机，用 A/D 键（默认）打舵，C/space 键控制俯仰。\n按住 S 键可以减速。\n用C/space 键可以调平船只，以避免它漂移。
