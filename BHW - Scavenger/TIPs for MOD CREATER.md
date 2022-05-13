@@ -1,5 +1,5 @@
-# Confusing Text
-## Text 1
+# Additional Changes
+## Modified 1
 File **Localization.txt**:
 Line **11-14**
 ### OriginalCode
@@ -9,4 +9,4 @@ Line **11-14**
 ### Modify Suggestion
 `vehicleRespawnersShortGroupDesc,blocks,block,,,Default Respawn Time 12 ingame days if using default settings (actual time is 12/15/17/24 hours regardless of game settings),,,,,,,,,,,,,,`
 
-**These sentences remain NOT MODIFIED in the translated `Localization.txt` flie.**
+**These sentences remain NOT MODIFIED in the translated `Localization.txt` flie. But Chinese translation is following the suggested modified text.**
