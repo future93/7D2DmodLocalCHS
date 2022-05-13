@@ -35,24 +35,40 @@ Welcome!
 
 点击直达★Kira☆
 * [Better Homes and Worlds Collection - Army Surplus](https://www.nexusmods.com/7daystodie/mods/1233) 汉化对应版本：v1.0.1
+
 * [Better Homes and Worlds Collection - Encyclopedia](https://www.nexusmods.com/7daystodie/mods/2044) 汉化对应版本：v1.0
+
 * [Better Homes and Worlds Collection - Fashionista](https://www.nexusmods.com/7daystodie/mods/1214) 汉化对应版本：v2.0
+
 * [Better Homes and Worlds Collection - Interior Design](https://www.nexusmods.com/7daystodie/mods/2049) 汉化对应版本：v1.0
+
 * [Better Homes and Worlds Collection - Modern Cooking](https://www.nexusmods.com/7daystodie/mods/1219) 汉化对应版本：v1.3
+
 * [Better Homes and Worlds Collection - PowerPlant](https://www.nexusmods.com/7daystodie/mods/1223) 汉化对应版本：v1.2
+
 * [Better Homes and Worlds Collection - Reinforced Doors](https://www.nexusmods.com/7daystodie/mods/1221) 汉化对应版本：v1.4
+
 * [Better Homes and Worlds Collection - Scavenger](https://www.nexusmods.com/7daystodie/mods/2045) 汉化对应版本：v1.0
+
 * [Ragsy's Water Vehicle - Main](https://community.7daystodie.com/topic/14070-water-vehicle-modlets/) 汉化对应版本：Boating Modlet Version 6 for A20
+
 * [Ragsy's Water Vehicle - JetSki](https://community.7daystodie.com/topic/14070-water-vehicle-modlets/?do=findComment&comment=275094) 汉化对应版本：Experimental work in progress version 2 for A20
+
 * [Ocb Claim Auto Repair](https://www.nexusmods.com/7daystodie/mods/1705) 汉化对应版本：v0.7.2
+
   备注：本模组汉化已由其作者整合，然而，由于我的疏漏，此模组整合的汉化使用了一个有错误的旧版本。仓库里提供了对应v0.7.2版本的汉化修正补丁，您可以使用与安装本仓库内其他中文补丁相同的方法将其安装以修正此错误。
+
   **如果您发现此模组发布页面的版本号高于v0.7.2，请暂时不要安装修正补丁，并在本仓库开一个Issue通知我。**
+
 * [Ocb Pin Recipes](https://www.nexusmods.com/7daystodie/mods/1850) ~~汉化对应版本：v0.4.1~~
 
   备注：本模组汉化已由其作者整合，直接下载模组本体即可。
 * [Quest Area Timer](https://www.nexusmods.com/7daystodie/mods/1912) 汉化对应版本：v1.1
+
 * [Khaine - Steel Ammo](https://github.com/KhaineGB/KhaineA20ModletsXML/tree/main/KHA20-SteelAmmo) 汉化对应版本：v1.0
+
 * [Khaine - Spawns and Claims](https://github.com/KhaineGB/KhaineA20ModletsXML/tree/main/KHA20-SpawnsAndClaims) 汉化对应版本：v1.0
+
 * [Superior Goggles](https://www.nexusmods.com/7daystodie/mods/1361) 汉化对应版本：v2
 
   备注：因为模组里用的那个图标属实有点辣眼睛所以我自己P了个新图标，虽然也很丑就是了。不想用的话，把子文件夹里的`UIAtlases`文件夹删掉即可。
