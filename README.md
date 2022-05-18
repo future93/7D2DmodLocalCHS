@@ -68,15 +68,19 @@ Welcome!
 
 ***
 
-## 已整合模组
+## 已整合本仓库中文化补丁的模组 (Merged Localizations)
 
-* [Ocb Claim Auto Repair](https://www.nexusmods.com/7daystodie/mods/1705) ~~汉化对应版本：v0.7.2~~
+* [Ocb Claim Auto Repair](https://www.nexusmods.com/7daystodie/mods/1705) ~~汉化对应版本：v0.7.4~~
 
 本模组汉化已由其作者整合，过去曾出现过的翻译错误也已由作者修正，直接下载模组本体即可。
+
+For Mod Creator: The Simplified Chinese localization of this mod has been updated to v0.7.4.
 
 * [Ocb Pin Recipes](https://www.nexusmods.com/7daystodie/mods/1850) ~~汉化对应版本：v0.4.1~~
 
 本模组汉化已由其作者整合，直接下载模组本体即可。
+
+For Mod Creator: The Simplified Chinese localization of this mod has been confirmed compatible with v0.5.1.
 
 ***
 END
