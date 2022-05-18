@@ -1,11 +1,11 @@
 # 《7日杀》模组汉化仓库
 *Simplified Chinese Translations for Various Mods of the Game 7 Days to Die*
 
-## For Mod Developers and Non-Chinese Speakers
+## For Mod Creators and Non-Chinese Speakers
 
 Welcome!
 
-**If you are one of the developers of these mods,** please accept my gratitude for creating these wonderful mods. Feel free to merge these translations into your mod, and there is no necessarity to contact me before you do this. Also, **if there is a `TIPs for MOD CREATER.md` file in the sub-directory of your mod, PLEASE CHECK.** There are bug reports and fix suggestions related to your mod's `Localization.txt` file. **If you have updated your mod or you want me to make simplified Chinese localization for another mod, Please open an Issue to remind me about that.**
+**If you are one of the creators of these mods,** please accept my gratitude for creating these wonderful mods. Feel free to merge these translations into your mod, and there is no necessarity to contact me before you do this. Also, **if there is a `TIPs for MOD CREATER.md` file in the sub-directory of your mod, PLEASE CHECK.** There are bug reports and fix suggestions related to your mod's `Localization.txt` file. **If you have updated your mod or you want me to make simplified Chinese localization for another mod, Please open an Issue to remind me about that.**
 
 **If you are a non-Chinese speaking game player,** sadly there is very few useful things here. However, you can still check these `TIPs for MOD CREATER.md` files. There are some bugfix suggestions within, which you can use to fix some annoying issues.
 
@@ -34,7 +34,29 @@ Welcome!
 
 ## 模组本体下载地址
 
-点击直达★Kira☆
+*点击模组名可直达发布页*
+
+***
+
+### 已整合本仓库中文化补丁的模组 (Merged Localizations)
+
+* [Ocb Claim Auto Repair](https://www.nexusmods.com/7daystodie/mods/1705) 汉化对应版本：v0.7.4
+
+  本模组汉化已由其作者整合，过去曾出现过的翻译错误也已由作者修正，直接下载模组本体即可。
+
+  **For Mod Creator: The Simplified Chinese localization of this mod has been updated to v0.7.4. PLEASE CHECK THE** `MergedLocal` **DIRECTORY TO OBTAIN THE NEWEST LOCALIZATION.**
+
+* [Ocb Pin Recipes](https://www.nexusmods.com/7daystodie/mods/1850) 汉化对应版本：v0.5.1
+
+  本模组汉化已由其作者整合，直接下载模组本体即可。
+
+  **For Mod Creator: The Simplified Chinese localization of this mod has been confirmed compatible with v0.5.1.**
+
+***
+
+### 未整合本仓库中文化补丁的模组
+
+*正如前文所述，你需要下载并安装模组本体后再安装本仓库中的中文化补丁，方可体验中文化的模组内容。
 
 * [Better Homes and Worlds Collection - Army Surplus](https://www.nexusmods.com/7daystodie/mods/1233) 汉化对应版本：v1.0.1
 
@@ -64,23 +86,7 @@ Welcome!
 
 * [Superior Goggles](https://www.nexusmods.com/7daystodie/mods/1361) 汉化对应版本：v2
 
-  备注：因为模组里用的那个图标属实有点辣眼睛所以我自己P了个新图标，虽然也很丑就是了。不想用的话，把子文件夹里的`UIAtlases`文件夹删掉即可。
-
-***
-
-## 已整合本仓库中文化补丁的模组 (Merged Localizations)
-
-* [Ocb Claim Auto Repair](https://www.nexusmods.com/7daystodie/mods/1705) ~~汉化对应版本：v0.7.4~~
-
-  本模组汉化已由其作者整合，过去曾出现过的翻译错误也已由作者修正，直接下载模组本体即可。
-
-  **For Mod Creator: The Simplified Chinese localization of this mod has been updated to v0.7.4.**
-
-* [Ocb Pin Recipes](https://www.nexusmods.com/7daystodie/mods/1850) ~~汉化对应版本：v0.4.1~~
-
-  本模组汉化已由其作者整合，直接下载模组本体即可。
-
-  **For Mod Creator: The Simplified Chinese localization of this mod has been confirmed compatible with v0.5.1.**
+  备注：因为模组里用的那个图标属实有点辣眼睛所以我自己P了个新的，虽然也很丑就是了。不想用的话，把子文件夹里的`UIAtlases`文件夹删掉即可。
 
 ***
 END
