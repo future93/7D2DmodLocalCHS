@@ -18,6 +18,7 @@ Welcome!
 ## 简单的模组安装教程
 
 （注：下文所述之“目录”可以简单对应为Windows系统的“文件夹”）
+
 * 前往模组发布地址下载模组本体。
 * 如果您下载的是一个压缩包，将其解压缩至一个单独的目录内。
 * 消除外部文件夹嵌套，**您将要在之后的步骤中复制的目录应当直接包含`ModInfo.xml`文件**，以及一些其他的文件和文件夹。模组目录内部的文件结构请勿更改。
@@ -34,6 +35,7 @@ Welcome!
 ## 模组本体下载地址
 
 点击直达★Kira☆
+
 * [Better Homes and Worlds Collection - Army Surplus](https://www.nexusmods.com/7daystodie/mods/1233) 汉化对应版本：v1.0.1
 
 * [Better Homes and Worlds Collection - Encyclopedia](https://www.nexusmods.com/7daystodie/mods/2044) 汉化对应版本：v1.0
@@ -54,15 +56,6 @@ Welcome!
 
 * [Ragsy's Water Vehicle - JetSki](https://community.7daystodie.com/topic/14070-water-vehicle-modlets/?do=findComment&comment=275094) 汉化对应版本：Experimental work in progress version 2 for A20
 
-* [Ocb Claim Auto Repair](https://www.nexusmods.com/7daystodie/mods/1705) 汉化对应版本：v0.7.2
-
-  备注：本模组汉化已由其作者整合，然而，由于我的疏漏，此模组整合的汉化使用了一个有错误的旧版本。仓库里提供了对应v0.7.2版本的汉化修正补丁，您可以使用与安装本仓库内其他中文补丁相同的方法将其安装以修正此错误。
-
-  **如果您发现此模组发布页面的版本号高于v0.7.2，请暂时不要安装修正补丁，并在本仓库开一个Issue通知我。**
-
-* [Ocb Pin Recipes](https://www.nexusmods.com/7daystodie/mods/1850) ~~汉化对应版本：v0.4.1~~
-
-  备注：本模组汉化已由其作者整合，直接下载模组本体即可。
 * [Quest Area Timer](https://www.nexusmods.com/7daystodie/mods/1912) 汉化对应版本：v1.1
 
 * [Khaine - Steel Ammo](https://github.com/KhaineGB/KhaineA20ModletsXML/tree/main/KHA20-SteelAmmo) 汉化对应版本：v1.0
@@ -72,6 +65,18 @@ Welcome!
 * [Superior Goggles](https://www.nexusmods.com/7daystodie/mods/1361) 汉化对应版本：v2
 
   备注：因为模组里用的那个图标属实有点辣眼睛所以我自己P了个新图标，虽然也很丑就是了。不想用的话，把子文件夹里的`UIAtlases`文件夹删掉即可。
+
+***
+
+## 已整合模组
+
+* [Ocb Claim Auto Repair](https://www.nexusmods.com/7daystodie/mods/1705) ~~汉化对应版本：v0.7.2~~
+
+本模组汉化已由其作者整合，过去曾出现过的翻译错误也已由作者修正，直接下载模组本体即可。
+
+* [Ocb Pin Recipes](https://www.nexusmods.com/7daystodie/mods/1850) ~~汉化对应版本：v0.4.1~~
+
+本模组汉化已由其作者整合，直接下载模组本体即可。
 
 ***
 END
