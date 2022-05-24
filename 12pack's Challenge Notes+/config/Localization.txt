@@ -1,0 +1,9 @@
+Key,File,Type,UsedInMainMenu,NoTranslate,english,schinese
+qc_itsjustbusinessman,Quest,Challenge Info,,,It's Just Business Man,生意人生
+challenge_itsjustbusinessman,Quest,Challenge Info,,,It's Just Business Man,生意人生
+challenge_itsjustbusinessman_offer,Quest,Challenge Info,,,"Dear Stranger,\nSome day, and that day may never come, I will call upon you to do a service for me. But until that day, consider this justice a gift on my daughter's wedding day.\n\n ‘Don' VitoC.\n\nChallenge: Kill some zombie Businessmen",亲爱的陌生人：\n他日我或许需要你为我出力，也可能不会有那么一天。但在那一天到来之前，请收下这份公道，权且当作小女成婚之礼。\n\n唐·维托·柯\n\n挑战：做掉几个丧尸商务人士
+challenge_itsjustbusinessman_subtitle,Quest,Challenge Info,,,"Whack some 'Associates'",抹杀几个“相关人员”
+qc_partyallthetime,Quest,Challenge Info,,,Party All the Time,夜夜笙歌
+challenge_partyallthetime,Quest,Challenge Info,,,Party All the Time,夜夜笙歌
+challenge_partyallthetime_offer,Quest,Challenge Info,,,"Girl, I can't understand it, why you want to hurt me?\nAfter all the things I've done for you? I buy you champagne and roses, put diamonds on your finger.. Diamonds. On your fingers. \nStill you hang out all night.. \nWhat am I to do? \n\nCrazy ‘Like a Fox' Eddie\n\nChallenge: Kill some zombie Party Girls",姑娘啊♪ 我不懂♬ 为何你要伤害我♩\n我亦为你做了如此之多♬\n我赠你玫瑰香槟♬ 我用钻石缀你指尖♪\n用钻石♩ 缀你♪ 指尖♪\n你却依旧♩ 彻夜不归♬\n我该如何是好♪\n\n痴狂“似狐”的艾迪\n\n挑战：“带走”几个派对女郎
+challenge_partyallthetime_subtitle,Quest,Challenge Info,,,"She Just Wants To",她惟愿此

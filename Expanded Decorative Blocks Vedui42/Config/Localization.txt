@@ -1,0 +1,52 @@
+﻿Key,english,schinese
+Expanded_Signs,Expanded Signs,标牌形状
+Expanded_Posters,Expanded Posters,海报形状
+Expanded_KitchenFurniture,Expanded Kitchen Furniture,厨房家具形状
+Expanded_Commercial,Expanded Commercial Furniture,商用家具形状
+Expanded_HomeFurniture,Expanded Home Furniture,住宅家具形状
+Expanded_Construction,Expanded Construction Stuffs,建筑器材形状
+Expanded_Technology,Expanded Technology Stuffs,技术设备形状
+Expanded_Vehicles,Expanded Vehicles,车辆形状
+Shop Sign Open,Shop Sign Open,商店标志：营业中
+Street Light,Street Light,路灯
+Street Light Classic,Street Light Classic,经典路灯
+Road Barricade Light,Road Barricade Light,路障灯
+Old Outdoor Light,Old Outdoor Light,旧室外灯
+Warehouse Outdoor Light,Warehouse Outdoor Light,仓库室外灯
+Iron Outdoor Light,Iron Outdoor Light,铁制室外灯
+Brass Outdoor Light,Brass Outdoor Light,铜制室外灯
+Red Industrial Light,Red Industrial Light,红色工业灯
+Silver Dome Light,Silver Dome Light,圆顶银吊灯 2x2
+Brass Dome Light,Brass Dome Light,圆顶铜吊灯 2x2
+Warehouse Ceiling Light,Warehouse Ceiling Light,仓库顶灯
+Silver Glass Light,Silver Glass Light,玻璃银灯
+Brass Glass Light,Brass Glass Light,玻璃铜灯
+Sconce Light,Sconce Light,壁灯
+Sconce Light Shadows,Sconce Light Shadows,壁灯-阴影
+Desk Lamp,Desk Lamp,办公桌台灯
+Table Lamp,Table Lamp,台灯
+Ceiling Fan Light,Ceiling Fan Light,吊扇灯
+Exit Sign,Exit Sign,出口标志
+End Table Lamp,End Table Lamp,茶几台灯
+X-Ray Display Light 1,X-Ray Display Light 1,X射线展示灯 1
+X-Ray Display Light 2,X-Ray Display Light 2,X射线展示灯 2
+Work Light,Work Light,工作灯
+Expanded_Lights,Expanded Lights,灯具形状
+Commercial Door 1,Commercial Door 1,商用门 1
+commercialDoor1_v2_noBrass,Commercial Door 1 v2,商用门 1（一次加固）
+commercialDoor1_v3_noBrass,Commercial Door 1 v3,商用门 1（两次加固）
+Commercial Door 2,Commercial Door 2,商用门 2
+commercialDoor2_v2_noBrass,Commercial Door 2 v2,商用门 2（一次加固）
+commercialDoor2_v3_noBrass,Commercial Door 2 v3,商用门 2（两次加固）
+Commercial Door 4,Commercial Door 4,商用门 4
+commercialDoor4_v2_noBrass,Commercial Door 4 v2,商用门 4（一次加固）
+commercialDoor4_v3_noBrass,Commercial Door 4 v3,商用门 4（两次加固）
+House Front Door 1,House Front Door 1,住宅门 1
+houseFrontDoor1_v2_noBrass,House Front Door 1 v2,住宅门 1（一次加固）
+houseFrontDoor1_v3_noBrass,House Front Door 1 v3,住宅门 1（两次加固）
+House Front Door 2,House Front Door 2,住宅门 2
+houseFrontDoor2_v2_noBrass,House Front Door 2 v2,住宅门 2（一次加固）
+houseFrontDoor2_v3_noBrass,House Front Door 2 v3,住宅门 2（两次加固）
+Expanded_Doors,Expanded Doors,门形状
+Expanded_Nature,Expanded Natural Stuffs,野外环境形状
+Expanded_Misc,Expanded Misc Stuffs,杂项物件形状

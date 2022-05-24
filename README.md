@@ -21,7 +21,7 @@ Welcome!
 
 * 前往模组发布地址下载模组本体。
 * 如果您下载的是一个压缩包，将其解压缩至一个单独的目录内。
-* 消除外部文件夹嵌套，**您将要在之后的步骤中复制的目录应当直接包含`ModInfo.xml`文件**，以及一些其他的文件和文件夹。模组目录内部的文件结构请勿更改。
+* 清理嵌套的目录，**您将要在之后的步骤中复制的目录应当直接包含`ModInfo.xml`文件**，以及一些其他的文件和文件夹。模组目录内部的文件结构请勿更改。
 * 将之前步骤中准备完成的目录直接复制到`[您的《7日杀》游戏根目录]\Mods\`目录下。
 * 不少模组需要在启动游戏时将`Easy Anti Cheat`（~~小懒熊~~小蓝熊）功能关闭，具体请参考模组发布页面的相关说明。您可以在游戏启动器中将与之对应的选项取消勾选。如果您是Steam用户，这需要您在Steam主程序中选择启动《7日杀》游戏，并选择`Show Game Launcher`选项。
 * 之后您可以继续将从本仓库中下载的中文补丁覆盖入之前在`[您的《7日杀》游戏根目录]\Mods\`中建立的模组目录中。`Localization.txt`文件通常存在于`[模组目录]\Config\`目录下。如果您在复制时没有提示需要确认覆盖文件的操作，请注意检查您是否将文件复制到了正确的目录下。您也可以参考本仓库各模组对应的子目录中的文件结构。
@@ -40,9 +40,9 @@ Welcome!
 
 ### 已整合本仓库中文化补丁的模组 (Merged Localizations)
 
-* [Ocb Claim Auto Repair](https://www.nexusmods.com/7daystodie/mods/1705) 汉化对应版本：v0.7.4
+* [Ocb Claim Auto Repair](https://www.nexusmods.com/7daystodie/mods/1705) 汉化对应版本：v0.7.5
 
-  本模组汉化已由其作者整合，过去曾出现过的翻译错误也已由作者修正，直接下载模组本体即可。
+  本模组汉化已由其作者整合，过去曾出现过的翻译错误也已由作者修正，~~直接下载模组本体即可~~但有一句新近更新的语句的翻译尚未跟进，因此如您希望获得完整的中文体验，请仍旧按照上述步骤安装本仓库内的中文化补丁。
 
   **For Mod Creator: The Simplified Chinese localization of this mod has been updated to v0.7.4. PLEASE CHECK THE** `MergedLocal` **DIRECTORY TO OBTAIN THE NEWEST LOCALIZATION.**
 
@@ -87,6 +87,16 @@ Welcome!
 * [Superior Goggles](https://www.nexusmods.com/7daystodie/mods/1361) 汉化对应版本：v2
 
   备注：因为模组里用的那个图标属实有点辣眼睛所以我自己P了个新的，虽然也很丑就是了。不想用的话，把子文件夹里的`UIAtlases`文件夹删掉即可。
+
+* [Aedenthorn's Pickup Blocks](https://www.nexusmods.com/7daystodie/mods/2229) 汉化对应版本：v0.1.0
+
+  备注：**警告：本模组的中文化安装方式特殊，具体请参见其目录下`Readme.md`文件。**
+
+* [12pack's Challenge Notes+](https://www.nexusmods.com/7daystodie/mods/2035) 汉化对应版本：20b218
+
+* [Expanded Decorative Blocks Vedui42](https://www.nexusmods.com/7daystodie/mods/607) 汉化对应版本：v2.0
+
+  备注：
 
 ***
 END

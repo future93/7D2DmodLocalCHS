@@ -1,0 +1,11 @@
+{
+  "modEnabled": true,
+  "isDebug": true,
+  "RestrictBlocksToLandClaimArea": true,
+  "AllowToggleLandClaimRestriction": true,
+  "ToggleModKey": "p",
+  "EmptyFirstMessage": "拾起此容器前必须先将其清空",
+  "DisabledText": "拾起物块功能已禁用",
+  "RestrictionEnabledText": "拾起物块功能已限制在领地范围内启用",
+  "RestrictionDisabledText": "拾起物块功能已无限制启用"
+}
