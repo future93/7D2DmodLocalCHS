@@ -96,7 +96,8 @@ Welcome!
 
 * [Expanded Decorative Blocks Vedui42](https://www.nexusmods.com/7daystodie/mods/607) 汉化对应版本：v2.0
 
-  备注：
+  备注：这个模组根本没有写`Localization.xml`，所以您在安装时不会得到覆盖文件的提示。
+  Note: English text added as well.
 
 ***
 END
